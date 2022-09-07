@@ -742,6 +742,14 @@ Another popular wordlist collections:
 * [weakpass.com/wordlist](https://weakpass.com/wordlist)
 * [packetstormsecurity.com/Crackers/wordlists](https://packetstormsecurity.com/Crackers/wordlists)
 
+### Custom Word List
+
+Create a custom wordlist based off of target. 
+`-m`(minimum word length, default 3.) `-d`(Depth to spider, default 2) `-e`(Include email addresses.) `-c`(Show the count for each word)
+
+```bash
+cewl -w ./customWordList.txt -c somedomain.com
+```
 ## 2. Scanning/Enumeration
 
 Keep in mind that web applications can be hosted on other ports besides 80 (HTTP) and 443 (HTTPS), e.g. they can be hosted on port 8443 (HTTPS).
