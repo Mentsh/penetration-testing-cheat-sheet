@@ -260,6 +260,7 @@ Inspect the web console for possible errors. Inspect the application's source co
 * [archive.org](https://archive.org) (wayback machine)
 * [pgp.circl.lu](https://pgp.circl.lu) (OpenPGP key server)
 * [shodan.io](https://www.shodan.io) (IoT search engine)
+* [crunchbase.com](https://www.crunchbase.com) (company research)
 
 ### Dmitry
 
